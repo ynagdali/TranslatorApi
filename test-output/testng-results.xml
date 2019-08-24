@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21306" started-at="2019-08-23T17:34:24 PDT" finished-at="2019-08-23T17:34:45 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21306" started-at="2019-08-23T17:34:24 PDT" finished-at="2019-08-23T17:34:45 PDT">
+      <class name="com.tranlatortext.selenium.translatortextapi.SeleniumTestClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tranlatortext.selenium.translatortextapi.SeleniumTestClass@32cf48b7]" name="setUp" is-config="true" duration-ms="12708" started-at="2019-08-23T17:34:24 PDT" finished-at="2019-08-23T17:34:36 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCoversion(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.tranlatortext.selenium.translatortextapi.SeleniumTestClass@32cf48b7]" name="testCoversion" duration-ms="13" started-at="2019-08-23T17:34:36 PDT" data-provider="testData" finished-at="2019-08-23T17:34:36 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestNo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fromlanguage]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[tolanguage]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[inputtext]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCoversion -->
+        <test-method status="PASS" signature="testCoversion(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.tranlatortext.selenium.translatortextapi.SeleniumTestClass@32cf48b7]" name="testCoversion" duration-ms="4315" started-at="2019-08-23T17:34:36 PDT" data-provider="testData" finished-at="2019-08-23T17:34:41 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[en]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[es]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCoversion -->
+        <test-method status="PASS" signature="testCoversion(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.tranlatortext.selenium.translatortextapi.SeleniumTestClass@32cf48b7]" name="testCoversion" duration-ms="915" started-at="2019-08-23T17:34:41 PDT" data-provider="testData" finished-at="2019-08-23T17:34:42 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[es]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[en]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[hola]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCoversion -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.tranlatortext.selenium.translatortextapi.SeleniumTestClass@32cf48b7]" name="cleanUp" is-config="true" duration-ms="2839" started-at="2019-08-23T17:34:42 PDT" finished-at="2019-08-23T17:34:45 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tranlatortext.selenium.translatortextapi.SeleniumTestClass@32cf48b7]" name="tearDown" is-config="true" duration-ms="273" started-at="2019-08-23T17:34:45 PDT" finished-at="2019-08-23T17:34:45 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tranlatortext.selenium.translatortextapi.SeleniumTestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
